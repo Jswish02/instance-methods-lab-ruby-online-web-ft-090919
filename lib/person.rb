@@ -8,6 +8,3 @@ puts "The person is walking"
 end
 end
 
-Person.new 
-Person.talk
-Person.walk
